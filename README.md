@@ -29,15 +29,15 @@ I'm an engineer passionate about building high-performance, low-power systems at
 ![TensorFlow Lite](https://img.shields.io/badge/TFLite-F9AB00?style=flat&logo=tensorflow&logoColor=white)
 ![Verilog](https://img.shields.io/badge/SystemVerilog-DC382D?style=flat&logo=verilog&logoColor=white)
 
----
+<!-- ---
 
 ### 📊 GitHub Stats
 
-![Shrujan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrujanus&show_icons=true&theme=tokyonight&count_private=true)
+![Shrujan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrujanus&show_icons=true&theme=tokyonight&count_private=true) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrujanus&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=shrujanus&theme=tokyonight&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=shrujanus&theme=tokyonight&hide_border=false) 
 
----
+--- -->
 
 ### 🧠 Featured Projects
 
