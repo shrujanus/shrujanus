@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shrujan Mudheboyina
+# 👋 Hi, I'm Shrujan
 
 🔧 Embedded Systems | 🤖 Robotics | 📷 CV/AI | ⚙️ C++ Developer
 
