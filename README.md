@@ -8,13 +8,12 @@
 
 I'm an engineer passionate about building high-performance, low-power systems at the intersection of hardware and software. My work spans embedded firmware, real-time robotics, edge AI, and full-stack integration. I enjoy solving complex problems with elegant code — whether it's bringing up hardware, deploying ROS2 on a robot, or building a computer vision pipeline.
 
-- 🔌 Embedded C++ Firmware – STM32, FreeRTOS, CAN, I2C, UART, SPI  
-- 🤖 Autonomous Robotics – ROS2, SLAM, Nav2, Gazebo, ArUco, LiDAR, TOF sensors  
-- 🔍 AI on the Edge – TinyML, TensorFlow Lite on Pi Pico and Raspberry Pi  
-- 🛠️ Hardware Bring-up – ODrive motor control, sensor fusion, power optimization  
-- ☁️ Full-stack Prototyping – Flutter + Python APIs + Firebase/WebSocket  
-- 🧪 Verification – SystemVerilog + UVM + Verilator + GTKWave  
-- 🐧 Linux & Docker – ROS2 workspace builds, CI/CD, containerized dev envs  
+- 🔌 Embedded C++ Firmware – FreeRTOS, Zephyr RTOS, Arduino, C/C++
+- 🤖 Autonomous Robotics – ROS 2, Visual SLAM, Nav2, Isaac Sim, LiDAR, sensor fusion  
+- 🔍 AI on the Edge – PyTorch, ONNX, TensorFlow Lite, CUDA acceleration
+- 🛠️ Board Bring-up & Integration – ARM SoCs, ESP32, peripheral interfaces  
+- 🧪 Verification – SystemVerilog, UVM, Verilator, GTKWave  
+- 🐧 Linux & Docker – CI/CD pipelines, containerized development environments 
 
 ---
 
